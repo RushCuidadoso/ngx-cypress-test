@@ -39,3 +39,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Cypress
+/Cypress/e2e/1-getting-started
+/Cypress/e2e/2-advanced-examples
